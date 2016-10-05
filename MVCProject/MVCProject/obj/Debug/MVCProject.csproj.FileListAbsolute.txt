@@ -1,0 +1,410 @@
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\ApplicationInsights.config
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\csc.exe
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\vbc.exe
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\MVCProject.dll.config
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\MVCProject.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\MVCProject.pdb
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.Web.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Owin.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Razor.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\WebGrease.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.Web.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.Razor.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+c:\users\cecil faye\documents\visual studio 2015\Projects\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\ApplicationInsights.config
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.Web.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.Web.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\Bootcamp\Desktop\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\ApplicationInsights.config
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\csc.exe
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\vbc.exe
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\MVCProject.dll.config
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\MVCProject.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\MVCProject.pdb
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\EntityFramework.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.Web.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Owin.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Razor.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\WebGrease.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.Web.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.Razor.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\EntityFramework.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\zhixt\Downloads\MVCProject (1)\MVCProject\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\ApplicationInsights.config
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\csc.exe
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\vbc.exe
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\MVCProject.dll.config
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\MVCProject.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\MVCProject.pdb
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\EntityFramework.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.Web.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Owin.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Razor.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\WebGrease.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.Web.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.Razor.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\EntityFramework.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\Bootcamp\Desktop\New folder (2)\MVCProject\obj\Debug\MVCProject.pdb
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\ApplicationInsights.config
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\csc.exe
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\vbc.exe
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\MVCProject.dll.config
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\MVCProject.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\MVCProject.pdb
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Antlr3.Runtime.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\EntityFramework.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.Web.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Newtonsoft.Json.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Owin.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Helpers.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Mvc.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Optimization.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Razor.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.WebPages.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\WebGrease.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.Web.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Helpers.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Mvc.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Optimization.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.Razor.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.WebPages.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Antlr3.Runtime.pdb
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Newtonsoft.Json.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\EntityFramework.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\obj\Debug\MVCProject.csprojResolveAssemblyReference.cache
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\obj\Debug\MVCProject.dll
+C:\Users\Bootcamp\Desktop\MVC_Project_2\New folder (2)\MVCProject\obj\Debug\MVCProject.pdb

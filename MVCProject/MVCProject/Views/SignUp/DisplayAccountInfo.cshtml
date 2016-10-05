@@ -1,0 +1,152 @@
+﻿@model MVCProject.ViewModels.ViewModel
+<br />
+<br />
+<div class="container well well-lg parent">
+
+    <div class="form-group col-md-4">
+        <div class="form-group  well well-lg">
+            <h2 style="color:black">CREDENTIALS</h2>
+            <center>
+                <img id="profile" src="@Url.Content("~/Content/Images/" + @Model.allBasicInfo.PictureName)" /><br />
+            </center>
+            <table cellpadding="5">
+                <tr>
+                    <td>
+                        <h6><b>Email:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allCredentialInfo.Email
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h6><b>Username:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allCredentialInfo.UserName
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="form-group col-md-8">
+        <div class="form-group  well well-lg pad10">
+            <h2 style="color:black">BASIC INFORMATION</h2>
+            <table>
+                <tr>
+                    <td>
+                        <h6><b>Name:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allBasicInfo.FirstName @Model.allBasicInfo.LastName
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h6><b>Gender:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allBasicInfo.Gender
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h6><b>BirthDate:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allBasicInfo.Birthdate
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h6><b>Age:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allBasicInfo.Age
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="form-group well well-lg">
+            <h2 style="color:black">CONTACT DETAILS</h2>
+            <table class="pad10">
+                <tr>
+                    <td>
+                        <h6><b>Address:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allContactInfo.Address
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h6><b>LandLine:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allContactInfo.LandLine
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h6><b>Mobile Number:</b></h6>
+                    </td>
+                    <td>
+                        @Model.allContactInfo.MobileNumber
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+@section pageNumbers{
+    <div class="col-md-6 col-md-offset-3 pages">
+        <div class="row padleft20 padright20">
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-info">
+                        <p>1</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>User Credentials</span>
+
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-info">
+                        <p>2</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>Basic Information</span>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-info">
+                        <p>3</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>Contact Information</span>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-info">
+                        <p>4</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>Information Summary</span>
+                </div>
+            </div>
+        </div>
+    </div>
+}

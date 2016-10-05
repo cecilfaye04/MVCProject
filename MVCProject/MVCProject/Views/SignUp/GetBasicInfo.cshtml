@@ -1,0 +1,155 @@
+﻿@model MVCProject.ViewModels.ViewModel
+
+@section signUpForm{
+
+
+    <div class="col-md-offset-3 padleft20">
+        @using (Html.BeginForm("GetBasicInfo", "SignUp", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal" }))
+    {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(model => model.allCredentialInfo.Email)
+            @Html.HiddenFor(model => model.allCredentialInfo.UserName)
+            @Html.HiddenFor(model => model.allCredentialInfo.Password)
+            @Html.HiddenFor(model => model.allCredentialInfo.ConfirmPassord)
+
+            <h2><span class="glyphicon glyphicon-pencil"></span> Sign Up</h2>
+            <h3>Basic Information</h3>
+            <h5>&#42;Required Fields</h5>
+            <br />
+
+                @*@Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.allBasicInfo.PictureName, "* Profile Picture", htmlAttributes: new { @class = "control-label col-md-2" })
+                            <br />
+                            <img id="profPic" src="~/Content/images/default.png" alt="Profile Picture" height="200" width="200" />
+                            <div class="col-md-10">
+                                <div class="radio-inline">
+                                    <input type="file" name="file" accept="image/*" id="fileButton" />
+                                    @Html.ValidationMessageFor(model => model.allBasicInfo.PictureName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-9">
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.allBasicInfo.FirstName, "* First Name", htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.allBasicInfo.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.allBasicInfo.FirstName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.allBasicInfo.LastName, "* Last Name", htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.allBasicInfo.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.allBasicInfo.LastName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.allBasicInfo.Birthdate, "* Birthdate", htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.allBasicInfo.Birthdate, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.allBasicInfo.Birthdate, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.allBasicInfo.Gender, "Gender", htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                <div class="radio-inline">
+                                    @Html.RadioButton("allBasicInfo.Gender", "Male", new { id = "rdbGender", @checked = "checked" })  @Html.LabelFor(x => x.allBasicInfo.Gender, "Male")
+                                </div>
+                                <div class="radio-inline">
+                                    @Html.RadioButton("allBasicInfo.Gender", "Female", new { id = "rdbGender" }) @Html.LabelFor(x => x.allBasicInfo.Gender, "Female")
+                                </div>
+                                @Html.ValidationMessageFor(model => model.allBasicInfo.Gender, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <button type="submit" class="btn btn-primary" id="btnSubmit">
+                                    Next <span class="glyphicon glyphicon-chevron-right"></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        }
+    </div>
+}
+
+@* PAGINATION *@
+
+@section pageNumbers{
+    <div class="col-md-6 col-md-offset-3 pages">
+        <div class="row padleft20 padright20">
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-info">
+                        <p>1</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>User Credentials</span>
+
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-info">
+                        <p>2</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>Basic Information</span>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-primary">
+                        <p>3</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>Contact Information</span>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="center">
+                    <div class="circle label-primary">
+                        <p>4</p>
+                    </div>
+                    <span class="glyphicon glyphicon-triangle-right"></span>
+                    <span>Information Summary</span>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@section scripts{
+    <script>
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $('#profPic').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+
+
+        $('#fileButton').change(function () {
+            readURL(this);
+        });
+
+    </script>
+}

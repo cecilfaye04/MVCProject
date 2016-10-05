@@ -1,0 +1,53 @@
+﻿body {
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color:#9EE0FF;
+}
+
+#center {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 1px;
+    overflow: visible;
+}
+#main {
+    position: absolute;
+    left: 50%;
+    width: 720px;
+    margin-left: -360px;
+    height: 340px;
+    top: -170px;
+}
+#logo {
+    display: block;
+    float: left;
+    background-image: url(banner.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+   
+}
+#logoID{
+     height: 340px;
+    width: 300px;
+}
+#divider {
+    display: block;
+    float: left;
+    /*background-image: url(//upload.wikimedia.org/wikipedia/commons/9/97/);*/
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 340px;
+    width: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#message {
+    background-image: url(logo.png);
+    padding-left: 10px;
+    float: left;
+    display: block;
+    height: 340px;
+    width: 370px;
+}

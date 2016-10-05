@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+
+
+</head>
+<body onload="checkCookieTheme()">
+    <div id="page">
+        @Html.Partial("Header")
+        <div class="row">
+            @RenderSection("pageNumbers", required: false)
+        </div>
+        <div class="row">
+            @RenderBody()
+            @RenderSection("signUpForm", required: false)
+        </div>
+       
+        @Html.Partial("Footer")
+        @Html.Partial("TopArrow")
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/Scripts/themePicker.js")
+    @RenderSection("scripts", required: false)
+    <div id="loading"></div>
+</body>
+</html>

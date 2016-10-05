@@ -1,0 +1,224 @@
+﻿/*images*/
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#rotate {
+    -webkit-transition: all 0.8s ease;
+    -moz-transition: all 0.8s ease;
+    -o-transition: all 0.8s ease;
+    transition: all 0.8s ease;
+}
+
+    #rotate:hover {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+
+/*typography*/
+
+.center {
+    text-align: center;
+}
+
+.top {
+    padding: 10px;
+}
+
+.pad10 {
+    padding: 10px;
+}
+
+p.text-muted {
+    margin: 0px 0px 0px 0px;
+}
+
+.padleft20{
+    padding-left: 50px;
+}
+
+.padright20{
+    padding-right: 50px;
+}
+
+.passwordTip{
+    padding-top:150px;
+    font-size: 15px;
+}
+
+/*page style*/
+
+.pages{
+    margin-top:20px;
+    margin-bottom: 50px;
+}
+
+.container {
+    width: 100%;
+    display: block;
+}
+
+.navbar {
+    border-radius: 0px !important;
+    margin: 0px 0px 0px 0px !important;
+    background-image: none !important;
+}
+
+.navbar-inverse{
+    border: none !important;
+}
+
+body {
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.top {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    z-index: 1000;
+}
+
+.transparent {
+    background: rgba(0,0,0,0);
+    background-image: none !important;
+    border: none !important;
+}
+
+.navi-buttons {
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+}
+
+.vertical-center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+}
+
+.navbar {
+    position: relative;
+}
+
+.jumbotron {
+    height: 800px;
+    position: relative;
+    margin-bottom: 0px !important;
+}
+
+.nav-pills > li > a {
+    color: InactiveCaption;
+    border: 2px solid InactiveBorder;
+    border-radius: 10px !important;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+    .nav-pills > li > a:active,
+    .nav-pills > li > a:hover,
+    .nav-pills > li > a:focus {
+        background-color: ButtonShadow !important;
+    }
+
+/*loading*/
+
+#page {
+    display: none;
+}
+
+#loading {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(46, 46, 46);
+    background-image: url("images/loading.gif");
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*validation*/
+
+.field-validation-error {
+    color: #b94a48;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+    margin-right: 10px;
+}
+
+
+select.input-validation-error {
+    border: 1px solid #b94a48;
+    margin-right: 10px;
+}
+
+/*
+.field-validation-valid {
+    display: none;
+}
+
+
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}*/
+
+/*DISPLAY SUMMARY*/
+#profile{
+    width:150px;
+    height:170px;
+}
+.parent {
+  overflow: hidden;
+}
+.child{
+    width:900px;
+}
+
+
+/*shapes within pagination*/
+
+.circle {
+    border-radius: 200px;
+    color: InactiveCaption;
+    height: 50px;
+    font-weight: bold;
+    width: 50px;
+    display: table;
+    margin: 20px auto;
+}
+.circle p {
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px
+}
+
+.arrowPadding{
+    padding-top:35px;
+}
+
